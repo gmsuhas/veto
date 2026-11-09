@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.gmsuhas/veto",
+  "title": "veto",
+  "description": "A long-call checklist. One tool, check, returns pass, fail, or watchlist.",
+  "repository": {
+    "url": "https://github.com/gmsuhas/veto",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/gmsuhas/veto/archive/refs/tags/v0.1.0.tar.gz",
+      "version": "0.1.0",
+      "transport": { "type": "stdio" },
+      "runtimeHint": "uvx",
+      "runtimeArguments": [
+        { "type": "named", "name": "--from", "value": "https://github.com/gmsuhas/veto/archive/refs/tags/v0.1.0.tar.gz" }
+      ],
+      "packageArguments": [
+        { "type": "positional", "valueHint": "command", "value": "veto" },
+        { "type": "positional", "valueHint": "mode", "value": "serve" }
+      ]
+    }
+  ]
+}
