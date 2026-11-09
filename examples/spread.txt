@@ -1,0 +1,18 @@
+# The diagonal that broke its own rules: a short leg at 40 days, two strikes
+# out, expiring after earnings.
+price: 100
+analyst_target: 130
+rsi: 52
+macd_histogram: 0.1
+catalyst_days: 20
+iv_rank: 25
+hours_to_fomc: 90
+gap_percent: 0
+earnings_days: 55
+earnings_plan: exit_day_before
+spread: yes
+long_dte: 80
+long_strike_steps: 1
+short_dte: 40
+short_strike_steps: 2
+short_expires_before_earnings: no

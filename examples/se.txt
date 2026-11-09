@@ -1,0 +1,12 @@
+# Sea Limited, as it stood when both entry modes failed.
+# The figures are the recorded reading, not a live quote.
+price: 150
+analyst_target: 190
+rsi: 36
+macd_histogram: -0.4
+catalyst_days: 67
+iv_rank: 22
+hours_to_fomc: 120
+gap_percent: 0
+earnings_days: 67
+earnings_plan: exit_day_before

@@ -1,0 +1,11 @@
+# A reading in which every cited rule passes. Not a recommendation.
+price: 100
+analyst_target: 130
+rsi: 28
+macd_histogram: 0.2
+catalyst_days: 80
+iv_rank: 20
+hours_to_fomc: 100
+gap_percent: 1.5
+earnings_days: 50
+earnings_plan: exit_day_before

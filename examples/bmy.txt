@@ -1,0 +1,11 @@
+# Bristol Myers, removed because the analyst target was not 20% above the price.
+price: 48
+analyst_target: 52
+rsi: 28
+macd_histogram: 0.1
+catalyst_days: 10
+iv_rank: 18
+hours_to_fomc: 120
+gap_percent: 1
+earnings_days: 40
+earnings_plan: hold
