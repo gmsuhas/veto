@@ -17,8 +17,6 @@ recommend a trade.
 ## Try it
 
 ```sh
-pip install veto-check
-veto check examples/se.txt
 python3 -m veto check examples/se.txt
 python3 -m veto check examples/clear.txt
 python3 -m veto check examples/spread.txt
