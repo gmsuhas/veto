@@ -1,16 +1,18 @@
 # veto
 
-A checklist for a long call. It answers `pass`, `fail`, or `watchlist`, and
-it does not recommend a trade.
+A review that gives the same answer on Thursday as it did on Monday.
 
-The rules came out of a week of checking the same names twice and finding
-that the second check disagreed with the first. The useful part was not the
-names. It was the refusals: an entry mode that was "near" its number, an
-analyst target copied from a stale snippet, a spread whose short leg broke a
-rule the long leg had already satisfied. Those are tests now. The names are
-examples of a reading, not ideas.
+**TLDR.** I checked the same names twice in one week and the second check
+disagreed with the first. A value that was "near" the line counted as a
+pass, and a missing number got the benefit of the doubt. veto writes the
+refusals down: you bring the figures, and it answers `pass`, `fail`, or
+`watchlist`. Nothing to install beyond Python 3.9.
 
-Nothing to install beyond Python 3.9.
+Read this if a decision you care about changes depending on who applies the
+rules and how tired they are. The worked example is a long investment call.
+The lesson is any review where the inputs are numbers you could round in
+your favor without noticing. It does not fetch a price and it does not
+recommend a trade.
 
 ## Try it
 
